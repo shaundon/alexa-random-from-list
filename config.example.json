@@ -1,0 +1,9 @@
+{
+  "appId": "Put your app ID here",
+  "helpMessage": "Put what you want Alexa to say when the user asks for help",
+  "aboutMessage": "Put what you want Alexa to say when the user asks about the skill"
+  "phrases": [
+    "phrase one",
+    "phrase two"
+  ]
+}
